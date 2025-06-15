@@ -7,8 +7,14 @@ São Paulo, Brazil <br>
 julia.cansado@alumni.usp.br <br>
 
 ## Minimal Requisites
-Python Language
-Google Earth Engine Account [GMAIL]
-Internet Connection
+- JavaScript (focused on Google Earth Engine) and Python Language
+- Google Earth Engine Account
+- Internet Connection
 
-## Getting Started
+## Workflow
+
+| STEP | DESCRIPTION | FILE |
+|:-------------:| ------------- | --------------|
+01.| Creating supervised and unsupervised weak label  | [Google Earth Engine Script](https://code.earthengine.google.com/cb48c989e2a2ea57053726b67b41ee5a) |
+02.| Training and predicting using U-Net Model | [Jupyter Notebook]() |
+
